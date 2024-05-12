@@ -1,0 +1,7 @@
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Development\adapterES\Definitions.adapterES.h
+D:\Galaga\adapterES\Source\adapterES\adapterESProjectile.h
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Inc\adapterES\adapterESProjectile.generated.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Galaga\\adapterES\\Source\\adapterES\\adapterES.Build.cs",
+		"D:\\Galaga\\adapterES\\Source\\adapterES.Target.cs",
+		"D:\\Galaga\\adapterES\\Source\\adapterESEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

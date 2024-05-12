@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "adapterES",
+			"Path": "D:\\Galaga\\adapterES\\Source\\adapterES.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "adapterESEditor",
+			"Path": "D:\\Galaga\\adapterES\\Source\\adapterESEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

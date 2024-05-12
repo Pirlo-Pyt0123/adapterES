@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\adapterES.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{63D3E69E-C627-4F9A-A442-940B69805688}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\adapterES.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\adapterESEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5B36133C-B4E2-42DD-BAE1-AE16042847AE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\adapterES">
+      <UniqueIdentifier>{B68BA7A7-66B0-4BC4-8971-E453E87384FC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\adapterES\adapterES.Build.cs">
+      <Filter>Source\adapterES</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\adapterES\adapterES.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\adapterES.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\adapterES\adapterESGameMode.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\adapterESGameMode.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\adapterES\adapterESPawn.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\adapterESPawn.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\adapterES\adapterESProjectile.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\adapterESProjectile.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\adapterES\ADAPTER_EXTRANJERA.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\ADAPTER_EXTRANJERA.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\adapterES\Ball.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\Ball.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\adapterES\bounce_Ball.cpp">
+      <Filter>Source\adapterES</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\adapterES\bounce_Ball.h">
+      <Filter>Source\adapterES</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

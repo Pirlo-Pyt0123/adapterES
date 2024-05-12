@@ -1,0 +1,7 @@
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Development\adapterES\Definitions.adapterES.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Galaga\adapterES\Source\adapterES/ADAPTER_EXTRANJERA.h
+D:\Galaga\adapterES\Source\adapterES\bounce_Ball.h
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Inc\adapterES\bounce_Ball.generated.h
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Inc\adapterES\ADAPTER_EXTRANJERA.generated.h

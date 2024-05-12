@@ -1,0 +1,5 @@
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Development\adapterES\Definitions.adapterES.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Galaga\adapterES\Source\adapterES/adapterESProjectile.h
+D:\Galaga\adapterES\Intermediate\Build\Win64\UE4Editor\Inc\adapterES\adapterESProjectile.generated.h
